@@ -43,7 +43,7 @@ const Navbar = ({ isFullScreen }) => {
       }}>
         <Logo src={logo} />
         <MainHeading>
-          <span>Code</span> Deck
+          <span>𝕍𝕠𝕣𝕥𝕖𝕩</span> ℂ𝕠𝕕𝕖
         </MainHeading>
       </NavbarContent>
     </NavbarContainer>
